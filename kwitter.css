@@ -1,0 +1,21 @@
+.logo{
+    height: 120px;
+    border-radius:100px ;
+    padding: 20px;
+}
+
+#logo_div{
+    background-color: purple;
+
+}
+
+#login_div{
+    background-color: lightblue;
+}
+
+button{
+    width: 3cm;
+    font-size: large;
+    color: white;
+    background-color: maroon;
+}
